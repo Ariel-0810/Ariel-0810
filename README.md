@@ -1,7 +1,6 @@
 Hola soy Ariel 👋
 
-<!--
-**Ariel-0810/Ariel-0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador de software apasionado que disfruta pasar incontables horas programando
 
 Here are some ideas to get you started:
 
