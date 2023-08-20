@@ -2,6 +2,12 @@ Hola soy Ariel 👋
 
 Soy un desarrollador de software apasionado que disfruta pasar incontables horas programando
 
+	. Quien Soy
+	. Que Hago
+	. A donde me dirijo
+	. Que tecnologias uso
+	. No dudes en contactarme
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
