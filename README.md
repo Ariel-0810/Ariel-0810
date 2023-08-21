@@ -66,20 +66,12 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
 </div>
 
 </td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-  
-</div>
-
-</td></tr></table>  
+ 
 
 <br/>  
 
 
-## Connect with me  
+## Feel free to connect with me 
 <div align="center">
 <a href="https://github.com/https://github.com/Ariel-0810" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
