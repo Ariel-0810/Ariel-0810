@@ -65,7 +65,7 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
  
 
 <br/>  
@@ -82,15 +82,4 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
 </div>  
   
 
-<br/>  
 
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
