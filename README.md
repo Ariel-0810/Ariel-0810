@@ -26,6 +26,7 @@ Busco constantemente desafíos técnicos y oportunidades para aplicar mis habili
 
 Mi visión es contribuir al mundo de la tecnología mediante la creación de soluciones innovadoras que tengan un impacto real en la vida de las personas.  
   
+<br/>
 
 - ### Qué Tecnologías Uso?
 
@@ -33,6 +34,8 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
   
 
 <br/>
+
+<table><tr><td valign="top" width="50%">
 
 ### Frontend  
 <div align="center">  
@@ -59,13 +62,16 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="50%">
+</td></tr></table>
 
 
 <br/>  
 
 
-## No dudes en contactarme! 
+## No dudes en contactarme!
+
+<br/> 
+
 <div align="center">
 <a href="https://github.com/https://github.com/Ariel-0810" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -75,5 +81,7 @@ Tengo experiencia en una variedad de tecnologías, incluyendo:
 </a>  
 </div>  
   
+<br />
 
+----
 
